@@ -7,7 +7,7 @@ ground.src = "img/ground.png";
 const foodImg = new Image();
 foodImg.src = "img/food.png";
 
-let box = 32;
+let box = 100;
 
 let score = 0;
 
